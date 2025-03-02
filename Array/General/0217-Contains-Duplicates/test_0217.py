@@ -1,4 +1,4 @@
-from main import containsDuplicate
+from problem_0217 import containsDuplicate
 
 
 def test_base():
