@@ -1,0 +1,14 @@
+# Ignore env
+env/
+venv/
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore pytest
+.cache/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
